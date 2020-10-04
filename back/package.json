@@ -1,0 +1,23 @@
+{
+  "name": "ieti-lab-2.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcro15/ieti-lab-2.2.git"
+  },
+  "author": "Juan Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcro15/ieti-lab-2.2/issues"
+  },
+  "homepage": "https://github.com/Jcro15/ieti-lab-2.2#readme",
+  "dependencies": {
+    "moment": "^2.29.0",
+    "uuid": "^8.3.0"
+  }
+}
